@@ -23,3 +23,10 @@ The dataset includes the following features:
 4. '4046'		: Total number of avocados with PLU 4046 sold
 5. '4225'		: Total number of avocados with PLU 4225 sold
 
+## Tools/Libraries Used:
+1. Numpy
+2. Pandas
+3. Seaborn
+4. Matplotlib
+5. Scikit-learn
+6. Python
