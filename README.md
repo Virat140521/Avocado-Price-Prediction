@@ -1,6 +1,6 @@
 # Avocado-Price-Prediction
 
-![](images/avocado.jpg)
+<img src="images/avocado.jpg" width=300 height=300>
 
 ## What you'll learn
 1. Problem Understanding.
