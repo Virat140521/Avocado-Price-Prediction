@@ -1,5 +1,7 @@
 # Avocado-Price-Prediction
 
+![](images/avocado.jpg)
+
 ## What you'll learn
 1. Problem Understanding.
 2. Importing Libraries.
@@ -20,3 +22,4 @@ The dataset includes the following features:
 3. 'Total Volume'	: The total number of volume sold
 4. '4046'		: Total number of avocados with PLU 4046 sold
 5. '4225'		: Total number of avocados with PLU 4225 sold
+
