@@ -1,6 +1,6 @@
 # Avocado-Price-Prediction
 
-<img src="images/avocado.jpg" width=300 height=300>
+<img src="images/avocado.jpg" width = 300 height = 300>
 
 ## What you'll learn
 1. Problem Understanding.
